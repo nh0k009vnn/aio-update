@@ -1,22 +1,22 @@
 {
-  "version": "v3.11.27",
-  "raw_version": "3.11.27",
-  "release_date": "2026-11-14",
-  "release_time": "21:51:15",
+  "version": "v3.11.30",
+  "raw_version": "3.11.30",
+  "release_date": "2026-11-24",
+  "release_time": "18:46:28",
   "mode": "core",
-  "download_url": "https://github.com/nh0k009vnn/aio-update/releases/download/v3.11.27/patch.zip",
-  "patch_size_bytes": 413242801,
-  "patch_size_mb": 394.1,
-  "patch_sha256": "3131f67ae34e91c9f48cce75547ef31ed52c4f59efd3f242e5696b4c3757473f",
+  "download_url": "https://github.com/nh0k009vnn/aio-update/releases/download/v3.11.30/patch.zip",
+  "patch_size_bytes": 80181873,
+  "patch_size_mb": 76.47,
+  "patch_sha256": "f61f9bbf7f3571c4f3998689295435c2eaa37332714bb6453abbcf8e716b9b21",
   "changelog": [
-    "Phiên bản v3.11.27 phát hành chính thức.",
-    "Tích hợp công cụ cập nhật tự động độc lập update.exe.",
-    "Tự động kiểm tra và thông báo phiên bản mới nhất từ GitHub nh0k009vnn.",
-    "Cải tiến hiệu năng và ổn định toàn hệ thống."
+    "Phiên bản v3.11.30 phát hành chính thức.",
+    "Sửa lỗi điều khiển song song nhiều profile và chuẩn hóa điểm bấm nút theo chuẩn W3C.",
+    "Khôi phục đầy đủ luồng hậu kiểm tự xóa video dính gậy, đường hầm Cloudflare và phân tích AI trên file.",
+    "Nâng cấp trình cập nhật tự động update.exe: xác minh SHA-256, chống Zip-Slip và tự khôi phục an toàn."
   ],
   "setup": {
-    "filename": "AIO_VIDEO_Setup_3.11.27.exe",
-    "download_url": "https://github.com/nh0k009vnn/aio-update/releases/download/v3.11.27/AIO_VIDEO_Setup_3.11.27.exe",
+    "filename": "AIO_VIDEO_Setup_v3.11.30.exe",
+    "download_url": "",
     "size_bytes": 0
   }
 }
